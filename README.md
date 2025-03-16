@@ -1,11 +1,12 @@
 ## Hi, Miguel here!
 
-🔭 I’m currently working on a audio engine using XAudio2</br>
+🔭 I’m currently working on an audio engine using XAudio2</br>
 🌱 I’m currently learning DirectX11, XAudio2 and audio programming</br>
-👯 I’m looking to collaborate on anything related to video games!</br>
+👯 I’m looking to collaborate on anything related to video games and audio development!</br>
 🤔 I’m looking for help with game programming patterns</br>
 💬 Ask me about electronic music. Love me some IDM</br>
 😄 Pronouns: he/him</br>
+🥃 My game audio portfolio -> https://www.miguelahumada.com/
 
 Articles
 ----
