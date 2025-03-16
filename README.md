@@ -8,21 +8,13 @@
 😄 Pronouns: he/him</br>
 🥃 My game audio portfolio -> https://www.miguelahumada.com/
 
-Articles
-----
-Some of my artciles about audio programming here -> [Click me!](https://medium.com/@migangahuga)
 
-Repos!
-----
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=migueahumada&repo=Test_Portaudio_Libsndfile&theme=tokyonight
-)](https://github.com/migueahumada/Test_Portaudio_Libsndfile)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=migueahumada&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=migueahumada&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=migueahumada&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=migueahumada&repo=Portsf4Windows&theme=tokyonight
-)](https://github.com/migueahumada/Portsf4Windows)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=migueahumada&repo=Trinos&theme=tokyonight
-)](https://github.com/migueahumada/Trinos)
 
-Languages
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migueahumada&hide_progress=true&theme=tokyonight)
