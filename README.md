@@ -6,7 +6,7 @@
 🤔 I’m looking for help with game programming patterns</br>
 💬 Ask me about electronic music. Love me some IDM</br>
 😄 Pronouns: he/him</br>
-🥃 My game audio portfolio -> https://www.miguelahumada.com/
+🥃 My audio programming portfolio here! -> https://migueahumada.github.io/dev-projects/
 
 
 # 💻 Tech Stack:
